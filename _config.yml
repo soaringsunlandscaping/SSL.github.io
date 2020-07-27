@@ -4,7 +4,7 @@
 
 url: https://sunying12.github.io/
 title: Ying Sun
-email: sunying12@gmail.com
+email: sunyings@alumni.stanford.edu
 author: Ying Sun
 description: "Ying's Personal Page"
 
@@ -13,36 +13,31 @@ description: "Ying's Personal Page"
 # ----------------------- #
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+#markdown: kramdown
+#permalink: pretty
 # Build sitemap
-gems:
-  - jekyll-sitemap
+#gems:
+#  - jekyll-sitemap
 
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
 
 social:
-  - icon: github
-    title: github
-    url: https://github.com/sunying12 
-  - icon: envelope-o
-    title: email
-    url: mailto:sunying12@gmail.com
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/sunyings/
-  - icon: file-pdf-o
-    title: CV
-    url: img/SunY_Resume_07.06.2020_consulting
-  - icon: file-pdf-o
-    title: Resume
-    url: img/SunY_Resume_07.06.2020_consulting
-#  - icon: website
-#    title: CV Lattes
-#    url: http://lattes.cnpq.br/5399100590606067
   - icon: twitter
     title: twitter
     url: https://twitter.com/sunying12
+  - icon: github
+    title: github
+    url: https://github.com/sunying12 
+  - icon: file-pdf-o
+    title: CV
+    url: img/SunY_Resume_07.06.2020_consulting
+  - icon: envelope-o
+    title: Connect with me!
+    url: mailto:sunyings@alumni.stanford.edu
+
 
