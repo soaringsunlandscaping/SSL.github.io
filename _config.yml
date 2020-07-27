@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: https://sunying12.github.io/
-title: Ying Sun
+title: Ying Sun (孙莹)
 email: sunyings@alumni.stanford.edu
 author: Ying Sun
 description: "Ying's Personal Page"
@@ -13,11 +13,11 @@ description: "Ying's Personal Page"
 # ----------------------- #
 
 # Build settings
-#markdown: kramdown
-#permalink: pretty
+markdown: kramdown
+permalink: pretty
 # Build sitemap
-#gems:
-#  - jekyll-sitemap
+gems:
+  - jekyll-sitemap
 
 # ----------------------- #
 #   3rd Party Settings    #
