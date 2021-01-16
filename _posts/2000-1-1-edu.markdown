@@ -1,14 +1,10 @@
 ---
 layout: default
-img: phd.JPG
+img: logo.png
 category: Education
-title: PhD in Cellular, Molecular, Developmental
-description: 2013-2020
+title: Call or text today for a quote!
+description: Quality and Fair Price Guarantee
 ---
 
-* __2013 - 2020__
-* Stanford University, Palo Alto CA
-* Discovered novel pathways that allow plants to better respond and tolerate changing environments.
-* Advisor: Dr. José Dinneny
-* NSF-GRFP
+Working with us means stable and reliable work. We will meet or beat other estimates whenever we can.
  
