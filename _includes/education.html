@@ -1,7 +1,7 @@
-<section id="education">
+<section id="Services">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
-    {% if post.category contains 'Education'%}
+    {% if post.category contains 'Services'%}
       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
         <div class="content-section-a">
