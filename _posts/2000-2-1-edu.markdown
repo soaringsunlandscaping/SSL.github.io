@@ -2,7 +2,7 @@
 layout: default
 img: me.jpg
 category: Education
-title: Quality and Fair Price Guarantee  
+title: Expert in General Maintenance and More!
 description: |
 ---
 
