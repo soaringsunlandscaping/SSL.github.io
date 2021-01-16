@@ -1,7 +1,7 @@
 ---
 layout: default
 img: me.jpg
-category: Education
+category: Services
 title: Expert in General Maintenance and More!
 description: |
 ---
