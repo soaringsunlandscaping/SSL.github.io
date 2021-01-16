@@ -24,6 +24,13 @@ gems:
 # ----------------------- #
 
 social:
+  - icon: file-pdf-o
+    title: Recent_Projects
+    url: https://docs.google.com/presentation/d/1gLwobgHgBgA3nTztdiSqV7gEzJkF-qZs0jB9zVBnSko/edit?usp=sharing
+  - icon: envelope-o
+    title: Connect with me!
+    url: mailto:soaringsunlandscaping@live.com
+social:
   - icon: file-pdf-o 
     title: Recent projects
     url: https://docs.google.com/presentation/d/1gLwobgHgBgA3nTztdiSqV7gEzJkF-qZs0jB9zVBnSko/edit?usp=sharing
