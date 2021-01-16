@@ -1,10 +1,12 @@
 ---
 layout: default
-img: logo.png
 category: Education
 title: Call or text today for a quote!
 description: Quality and Fair Price Guarantee
 ---
+With me and my team, you will always get high quality work at a fair price.  
 
-Working with us means stable and reliable work. We will meet or beat other estimates whenever we can.
+Working with us means stable and reliable work. 
+
+We will meet or beat other estimates whenever we can.
  
