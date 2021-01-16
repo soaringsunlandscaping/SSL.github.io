@@ -2,7 +2,7 @@
 layout: default
 img: me.jpg
 category: Services
-title: Expert in General Maintenance and More!
+title: Experts in General Maintenance
 description: |
 ---
 
