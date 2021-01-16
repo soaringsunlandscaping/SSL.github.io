@@ -1,6 +1,5 @@
 ---
 layout: default
-category: Education
 title: Other Services
 description: |
 ---
