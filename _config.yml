@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: https://sunying12.github.io/
-title: Ying Sun (孙莹)
-email: sunyings@alumni.stanford.edu
-author: Ying Sun
-description: "Ying's Personal Page"
+title: Soaringsun Handyman Services
+email: soaringsunlandscaping@live.com
+author: Hui Sun
+description: "Hui's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,18 +24,8 @@ gems:
 # ----------------------- #
 
 social:
-  - icon: linkedin
-    title: linkedin
-    url: https://www.linkedin.com/in/sunyings/
-  - icon: twitter
-    title: twitter
-    url: https://twitter.com/sunying12
-  - icon: github
-    title: github
-    url: https://github.com/sunying12 
-  - icon: file-pdf-o
-    title: CV
-    url: img/SunY_Resume_07.06.2020_consulting
+    title: Photos
+    url: https://docs.google.com/presentation/d/1gLwobgHgBgA3nTztdiSqV7gEzJkF-qZs0jB9zVBnSko/edit?usp=sharing
   - icon: envelope-o
     title: Connect with me!
     url: mailto:sunyings@alumni.stanford.edu
