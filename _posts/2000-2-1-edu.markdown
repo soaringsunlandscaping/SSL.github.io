@@ -1,14 +1,19 @@
 ---
 layout: default
-img: Master.JPG
+img: me.jpg
 category: Education
-title: Master's in Plant Physiology
+title: Quality and Fair Price Guarantee  
 description: |
 ---
 
-* __2010 - 2012__
-* Federal University of Viçosa, Viçosa, Brazil
-* Production, accumulation and exudation of organic acids on aluminum toxicity in *Stylosanthes*.
-* Advisor: Dr. José Cambraia
-* Scholarship from: CNPq
+* Bathrooms
+* Carpentry
+* Flooring
+* Faucet
+* Kitchens
+* Lighting and fixtures
+* Plumbing & Garbage disposal
+* Painting and Drywall
+* Other services
+* Landscaping maintenance and clean up
 
